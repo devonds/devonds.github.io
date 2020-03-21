@@ -1,4 +1,10 @@
 theme: jekyll-theme-minimal
-title: Devon Sampson and Polyculture Research & Media
-logo: "/images/bio.jpeg"
-description: Welcome! I'm working on several data science projects for public health and sustainable food systems applications.
+title: Devon Sampson
+logo: "/images/bio.jpg?raw=true"
+description:
+  I'm a food systems researcher and data scientist.  
+  <br><br>
+  I like finding actionable insights from messy, real-world data in the fields of public health, food systems, and beyond.  My background is in ecology,  evironmental science, and agroecology (the science of sustainable food systems).  <br><br>
+  <a href="https://www.linkedin.com/in/devonds/">LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://www.devondsampson.com/">Devon's Website</a> 
